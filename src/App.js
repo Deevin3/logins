@@ -2,7 +2,7 @@ import LoginForm from "./Components/LoginForm/LoginForm";
 
 function App() {
   return (
-    <div>
+    <div  className="App">
       <LoginForm />
     </div>
   );
